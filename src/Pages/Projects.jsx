@@ -47,7 +47,7 @@ function Projects() {
       technologies: ['React', 'Tailwind CSS', 'Framer Motion', 'React Router'],
       icon: Building2,
       dotColor: 'bg-blue-500',
-      link: 'https://yusuffuu.github.io/Fantom-group/',
+      link: 'https://fantomgroupltd.com/',
       buttonText: 'View Project'
     },
     {
